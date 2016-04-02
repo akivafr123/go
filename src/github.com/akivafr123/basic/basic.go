@@ -16,4 +16,5 @@ func main() {
 	fmt.Printf(f, ToBe, ToBe)
 	fmt.Printf(f, MaxInt, MaxInt)
 	fmt.Printf(f, z, z)
+	fmt.Printf("Hello there.");
 }
